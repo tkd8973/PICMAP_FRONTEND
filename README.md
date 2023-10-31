@@ -10,6 +10,16 @@
 |-----------------------------------------------------|
 [@KimSuSung0326](https://github.com/KimSuSung0326)  |
 
+### Infra
+| 서상원<br>                              |
+|-----------------------------------------------------|
+[@tkd8973](https://github.com/tkd8973)  |
+
+### Backend
+| 서상원<br>                              |
+|-----------------------------------------------------|
+[@tkd8973](https://github.com/tkd8973)  |
+
                                                                                                                                       
 ## ✍Tech Stack
 ### Frontend
@@ -17,7 +27,6 @@
 
 ### WorkTool
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"><img src="https://img.shields.io/badge/Discord-004C99?style=for-the-badge&logo=Discord&logoColor=white">
-
 
 
 ## Docs
